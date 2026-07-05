@@ -1,0 +1,4 @@
+645,Teju,Tejuu645@gmail.com,CSE,92.0
+415,Nithin,Nithitej045@gmail.com,CSE,95.0
+123,karthik,karthik14@gmail.com,AIDS,90.0
+234,raj,rajj234@gmail.com,AIML,96.0
